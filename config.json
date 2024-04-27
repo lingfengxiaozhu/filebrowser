@@ -6,7 +6,7 @@
         "userHomeBasePath": "/users",
         "defaults": {
             "scope": ".",
-            "locale": "cn",
+            "locale": "en",
             "viewMode": "list",
             "singleClick": false,
             "sorting": {
